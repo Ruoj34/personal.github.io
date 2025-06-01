@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 贾若
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+## Name pronunciation (optional)
+#name_pronunciation: Ruo Jia
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ruo
+last_name: Jia
 
 # Status emoji
 status:
@@ -24,32 +24,28 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Chalmers University of Technology
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ruoj@chalmers.se'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ruoj34
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/drruojia/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=AMpbc14AAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8894-0459/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Transportation Researcher
+  - Shared Mobility
 
 education:
   - area: PhD Artificial Intelligence
